@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-/*class Persona {
+class Persona {
 private:
 	string nom;
 	int edad;
@@ -47,11 +47,11 @@ int ej_1() {
 		cout<<"Es menor d'edad"<<endl;
 	}
 
-}*/
+}
 
 
 
-/*class Rectangle {
+class Rectangle {
 private:
 	double amplada;
 	double alçada;
@@ -92,6 +92,12 @@ int main() {
 	cout << "l'Area es: "<< forma.Calcul_area() << endl;
 	cout << "El perimetre es: "<< forma.Calcul_perimetre() << endl;
 	
-}*/
+}
 
 
+class Llum {
+private:
+	bool encesa;
+public: 
+
+};
